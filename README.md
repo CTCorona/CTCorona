@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hey!! 👋
+
+I'm Christian, a front-end developer that loves to try out all the new frameworks (_VueJS_, _Svelte_, _ReactJS_).
 
 <!--
 **CTCorona/CTCorona** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
